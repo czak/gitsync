@@ -15,7 +15,7 @@ Container requires at runtime:
 
 ## Running with Docker
 
-In order to push `/home/myuser/notes` to the 'example/somerepo' GitHub repository:
+In order to push `/home/myuser/notes` to the `example/somerepo` GitHub repository:
 
 ```sh
 docker run --rm -it --name gitsync \
